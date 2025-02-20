@@ -1,8 +1,8 @@
 {
     "name": "My Lottery App",
     "short_name": "Lottery",
-    "url": "https://your-app-url.com",
-    "icon": "https://your-app-url.com/icon.png",
+    "url": "https://appcreator-sudo.github.io/ton-lottery/",
+    "icon": "https://github.com/AppCreator-sudo/ton-lottery/blob/master/src/logo.svg",
     "start_url": "/",
     "scope": "/",
     "description": "Lottery app with TON payments",
