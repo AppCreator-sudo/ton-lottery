@@ -1,0 +1,17 @@
+{
+    "name": "My Lottery App",
+    "short_name": "Lottery",
+    "url": "https://your-app-url.com",
+    "icon": "https://your-app-url.com/icon.png",
+    "start_url": "/",
+    "scope": "/",
+    "description": "Lottery app with TON payments",
+    "wallets": [
+      {
+        "name": "TON Wallet",
+        "type": "ton",
+        "icon": "https://ton-wallet-icon.com/icon.png"
+      }
+    ]
+  }
+  
